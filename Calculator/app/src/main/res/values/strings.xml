@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="DOT">.</string>
+    <string name="ZERO">0</string>
+    <string name="PERCENT">%</string>
+    <string name="EQUALS">=</string>
+    <string name="PLUS">+</string>
+    <string name="THREE">3</string>
+    <string name="TWO">2</string>
+    <string name="ONE">1</string>
+    <string name="CLEAR">CLEAR</string>
+    <string name="DIVIDE">/</string>
+    <string name="SEVEN">7</string>
+    <string name="EIGHT">8</string>
+    <string name="NINE">9</string>
+    <string name="MULTIPLY">*</string>
+    <string name="FOUR">4</string>
+    <string name="FIVE">5</string>
+    <string name="SIX">6</string>
+    <string name="MINUS">-</string>
+    <string name="ZERODOT">0.</string>
+</resources>

@@ -8,7 +8,6 @@ import java.lang.Exception
  * notation in which operators follow their operands, in contrast to Polish notation (PN), in which operators precede
  * their operands. It does not need any parentheses as long as each operator has a fixed number of operands.
  *
- * @author Ferenc Tollas
  */
 class Exp2RPN {
 
@@ -104,13 +103,4 @@ class Exp2RPN {
 
         return result.toTypedArray()
     }
-}
-
-
-fun main() {
-    val expRunner = RPNCalc()
-    val expression = "798*65%"
-    println("Example for expression $expression :")
-    val result = expRunner.calculate(expression)
-    println("Result: $result")
 }
